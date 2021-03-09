@@ -1,1 +1,1 @@
-#first attempt at responsive design without media query
+first attempt at responsive design without media query
